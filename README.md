@@ -1,2 +1,2 @@
 # Dados
-Ejercicio botones
+Ejercicio dados
